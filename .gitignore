@@ -1,10 +1,10 @@
 .DS_Store
-*.zip
+## *.zip
 /.idea/
 /.dist/
 /composer.lock
 /src/system/library/multisafepay/vendor/
-/src/patches-for-third-party-integrations
+## /src/patches-for-third-party-integrations
 /coverage.xml
 /phpunit.xml
 /bin/private/*
